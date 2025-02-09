@@ -25,76 +25,54 @@ so we created a user friendly medical appointment booking website to easier thei
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- html,css,java script
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+wampserver
 
 # Run
-[commands]
+localhost/foldername/filename.extension
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows()
+![Screenshot (55)](https://github.com/user-attachments/assets/95a5a599-1f27-42fa-9dbf-c8aa0c29a4b5)
+
+home page
 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot (56)](https://github.com/user-attachments/assets/a1ebfb89-2e2d-4759-aa76-b0f9ddf8747c)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+signup page
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Screenshot (57)](https://github.com/user-attachments/assets/37ad2aef-e734-4f8a-bef1-e36b155cdf2b)
 
-For Hardware:
+appointment
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
+![Screenshot (58)](https://github.com/user-attachments/assets/e4881068-8692-47e3-a0db-30e055fceae1)
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
+
+https://github.com/user-attachments/assets/40d889fb-d5f0-4edc-8a39-ff3dacdd2d7c
+
+
+https://github.com/user-attachments/assets/d31d6e5f-1961-4655-8ecd-963efee71e75
+
+
+
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub
