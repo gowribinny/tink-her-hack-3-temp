@@ -1,26 +1,26 @@
-# [Project Name] 🎯
+#Medical appointment website 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Test
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Gowri s -Carmel polytechnic college
+- Member 2: Malavika v - Carmel polytechnic college
+- Member 3: Anjitha saji - Carmel polytechnic college
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+A medical appointment website is an online platform designed to facilitate the scheduling, management, and organization of appointments between patients and healthcare providers.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+due to the busy life of human they have no time to waste in medical appointment booking
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+so we created a user friendly medical appointment booking website to easier their job
 
 ## Technical Details
 ### Technologies/Components Used
@@ -48,7 +48,8 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+*Add caption explaining what this shows()
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
